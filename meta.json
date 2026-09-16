@@ -1,0 +1,23 @@
+{
+  "repo": "hollywood-orchestra-complete",
+  "product": "Hollywood Orchestra Complete",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "orchestral-library",
+  "topics": [
+    "hollywood-orchestra",
+    "eastwest-sounds",
+    "orchestral-library-desktop",
+    "scoring-windows",
+    "mic-mix-2026",
+    "how-to-install-hollywood-orchestra",
+    "orchestra-desktop-package",
+    "composer-score-suite",
+    "keyswitch-maps",
+    "eastwest-complete"
+  ],
+  "site": "toolix.me"
+}
